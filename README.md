@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TerenceFenton
 - 👀 I’m interested in learning more about the intricacies of the coding process
-- 🌱 I’m currently learning Data Science at the University of Auckland
+- 🌱 I’m currently studying Data Science at the University of Auckland
 - 📫 How to reach me: moutarde001@gmail.com
 - 😄 Pronouns: He/Him
 
