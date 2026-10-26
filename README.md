@@ -1,15 +1,11 @@
-Hi there! My name is Terence Fenton and I'm an aspiring Computer and Data Scientist studying Data Science at the University of Auckland!
+Hi there! My name is Terence Fenton and I'm a graduate Data Science student from the University of Auckland
 
-- 👀 I’m interested in learning more about generative AI development in backend processes. Some of my current WIP include;
-  - [Bot AI Assistant](https://github.com/TerenceFenton/ChefBot)
-  - [Receipt itemizer with Gemini](https://github.com/bruce414/food_inspection/tree/main/lib/Backend/Image_Scanner)
+- Right now here's my current WIP's, I have a pretty broad range of interest so I can't say if these are connected by a theme.
+  - [ASB Bank Account Visualizer (with some experimentation with Classifiers)](https://github.com/TerenceFenton/ASB-Visualiser)
 
-- While I'm still fairly green, I would be delighted to help collaborate on some **Python** based projects. Some skillsets I can contibute include;
-  - PDF document processing
-  - AI assistant Backend Development (utilising and implementing API)
-  - Audio input and output functions
+- I primarily code in R and Python, however outside of Git I am branching out with a little CSS and HTML when my professional life calls for it.
 
-- 📫 How to reach me: moutarde001@gmail.com
+- How to reach me: moutarde001@gmail.com
 
 <!---
 TerenceFenton/TerenceFenton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
